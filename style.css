@@ -1,0 +1,24 @@
+.game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.canvas {
+    border: 2px solid white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #202020;
+    color: white;
+}
